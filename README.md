@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>LLaMA 4 from Scratch: Python & Rust</title>
-</head>
-<body>
-
 <h1>🦙 LLaMA 4 from Scratch: Python & Rust</h1>
 <h2>From Zero to LLaMA 4: Crafting a Language Model with Python and Rust</h2>
 <p>This project offers a comprehensive, step-by-step implementation of the LLaMA 4 architecture using both Python and Rust. It serves as an educational resource for understanding and building large language models (LLMs) from the ground up.</p>
